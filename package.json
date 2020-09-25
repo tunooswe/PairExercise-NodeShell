@@ -1,0 +1,23 @@
+{
+  "name": "curlexercise",
+  "version": "1.0.0",
+  "description": "curl exercise",
+  "main": "bash.js",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjkim530/PairExercise-NodeShell.git"
+  },
+  "author": "SJ & TUN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjkim530/PairExercise-NodeShell/issues"
+  },
+  "homepage": "https://github.com/sjkim530/PairExercise-NodeShell#readme"
+}
