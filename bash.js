@@ -3,10 +3,10 @@ const cat = require("./cat");
 
 const done = (output) => {
   process.stdout.write(output);
-  process.stdout.write("prompt > ");
+  process.stdout.write("\nprompt > ");
 };
 
 // pwd();
 // cat();
 
-module.exports = done();
+module.exports = done;
